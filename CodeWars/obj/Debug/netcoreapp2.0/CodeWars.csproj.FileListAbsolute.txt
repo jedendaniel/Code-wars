@@ -1,0 +1,11 @@
+Z:\programowanko\C#\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.deps.json
+Z:\programowanko\C#\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.runtimeconfig.json
+Z:\programowanko\C#\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.runtimeconfig.dev.json
+Z:\programowanko\C#\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.dll
+Z:\programowanko\C#\CodeWars\CodeWars\bin\Debug\netcoreapp2.0\CodeWars.pdb
+Z:\programowanko\C#\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.csprojResolveAssemblyReference.cache
+Z:\programowanko\C#\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.csproj.CoreCompileInputs.cache
+Z:\programowanko\C#\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.AssemblyInfoInputs.cache
+Z:\programowanko\C#\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.AssemblyInfo.cs
+Z:\programowanko\C#\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.dll
+Z:\programowanko\C#\CodeWars\CodeWars\obj\Debug\netcoreapp2.0\CodeWars.pdb
